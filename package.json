@@ -1,0 +1,9 @@
+{
+     "name": "chat dsd",
+     "description": "chat centralizado",
+     "version": "1.0",
+     "dependencies": {
+        "express": "",
+        "socket.io": ""
+     }
+}
