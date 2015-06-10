@@ -1,6 +1,6 @@
 {
   "name": "nodechat",
-  "version": "1.0",
+  "version": "0.1.0",
   "description": "chat centralizado",
   "main": "server.js",
   "repository": "https://github.com/marquina91/DSD.git",
