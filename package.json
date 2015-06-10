@@ -1,9 +1,11 @@
 {
-     "name": "chat dsd",
-     "description": "chat centralizado",
-     "version": "1.0",
-     "dependencies": {
-        "express": "",
-        "socket.io": ""
-     }
+  "name": "nodechat",
+  "version": "1.0",
+  "description": "chat centralizado",
+  "main": "server.js",
+  "repository": "https://github.com/marquina91/DSD.git",
+  "dependencies": {
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  }
 }
